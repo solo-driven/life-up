@@ -6,7 +6,7 @@ The project uses an autoencoder model to analyze time series data consisting of 
 
 The LifeUp anomaly detection system is deployed as an API on Hugging Face https://huggingface.co/spaces/solo-driven/lifeup. The API receives the Google Fit data, runs the anomaly detection algorithm, and returns the result. This setup allows for easy integration with other systems and applications.
 
-In addition, we have created our own model API using FastAPI, which has been dockerized (available at `solodriven/pedometer_anomaly_detection` on Docker Hub) and deployed on Google Kubernetes Engine (GKE). This provides a scalable and robust platform for serving our anomaly detection model.
+In addition, we have created our own model API using FastAPI, which has been dockerized (available at `solodriven/pedometer_anomaly_detection` on Docker Hub) https://hub.docker.com/r/solodriven/pedometer_anomaly_detection and deployed on Google Kubernetes Engine (GKE). This provides a scalable and robust platform for serving our anomaly detection model.
 
 To interact with the API and see it in action, check it out on Hugging Face Spaces.
 
