@@ -16,13 +16,16 @@ autoencoder, scaler = load_components()
 # The main function for anomaly detection
 def detect_anomalies(speed_df, distance_df, step_count_df):
  
-    distance_df['timestamp'] = pd.to_datetime(distance_df['timestamp'], unit='ns')
+    distance_df['timestamp'] = pd.to_datetime(distance_df['timestamp'].astype(int), unit='ns')
+    distance_df['value'] = distance_df['value'].astype(float)
     distance_df.set_index('timestamp', inplace=True)
     
-    step_count_df['timestamp'] = pd.to_datetime(step_count_df['timestamp'], unit='ns')
+    step_count_df['timestamp'] = pd.to_datetime(step_count_df['timestamp'].astype(int), unit='ns')
+    step_count_df['value'] = step_count_df['value'].astype(float)
     step_count_df.set_index('timestamp', inplace=True)
     
-    speed_df['timestamp'] = pd.to_datetime(speed_df['timestamp'], unit='ns')
+    speed_df['timestamp'] = pd.to_datetime(speed_df['timestamp'].astype(int), unit='ns')
+    speed_df['value'] = speed_df['value'].astype(float)
     speed_df.set_index('timestamp', inplace=True)
 
     # Combine DataFrames, interpolate, and drop NaN values
