@@ -17,15 +17,15 @@ autoencoder, scaler = load_components()
 def detect_anomalies(speed_df, distance_df, step_count_df):
  
     distance_df['timestamp'] = pd.to_datetime(distance_df['timestamp'].astype(int), unit='ns')
-    distance_df['value'] = distance_df['value'].astype(float)
+    distance_df['distance'] = distance_df['distance'].astype(float)
     distance_df.set_index('timestamp', inplace=True)
     
     step_count_df['timestamp'] = pd.to_datetime(step_count_df['timestamp'].astype(int), unit='ns')
-    step_count_df['value'] = step_count_df['value'].astype(float)
+    step_count_df['step_count'] = step_count_df['step_count'].astype(float)
     step_count_df.set_index('timestamp', inplace=True)
     
     speed_df['timestamp'] = pd.to_datetime(speed_df['timestamp'].astype(int), unit='ns')
-    speed_df['value'] = speed_df['value'].astype(float)
+    speed_df['speed'] = speed_df['speed'].astype(float)
     speed_df.set_index('timestamp', inplace=True)
 
     # Combine DataFrames, interpolate, and drop NaN values
@@ -47,9 +47,9 @@ def detect_anomalies(speed_df, distance_df, step_count_df):
 iface = gr.Interface(
     fn=detect_anomalies,
     inputs=[
-        gr.Dataframe(headers=["value", "timestamp"], datatype=["number", "number"], row_count=(1, "dynamic"), label="Speed Data"),
-        gr.Dataframe(headers=["value", "timestamp"], datatype=["number", "number"], row_count=(1, "dynamic"), label="Distance Data"),
-        gr.Dataframe(headers=["value", "timestamp"], datatype=["number", "number"], row_count=(1, "dynamic"), label="Step Count Data")
+        gr.Dataframe(headers=["speed", "timestamp"], datatype=["number", "number"], row_count=(1, "dynamic"), label="Speed Data"),
+        gr.Dataframe(headers=["distance", "timestamp"], datatype=["number", "number"], row_count=(1, "dynamic"), label="Distance Data"),
+        gr.Dataframe(headers=["step_count", "timestamp"], datatype=["number", "number"], row_count=(1, "dynamic"), label="Step Count Data")
     ],
     outputs="number",
     description="Detect Anomalies in Time Series Data"
