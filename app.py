@@ -44,9 +44,9 @@ def detect_anomalies(speed_df, distance_df, step_count_df):
 iface = gr.Interface(
     fn=detect_anomalies,
     inputs=[
-        gr.Dataframe(headers=["value", "timestamp"], datatype=["float", "int"], row_count=(1, "dynamic"), label="Speed Data"),
-        gr.Dataframe(headers=["value", "timestamp"], datatype=["float", "int"], row_count=(1, "dynamic"), label="Distance Data"),
-        gr.Dataframe(headers=["value", "timestamp"], datatype=["float", "int"], row_count=(1, "dynamic"), label="Step Count Data")
+        gr.Dataframe(headers=["value", "timestamp"], datatype=["number", "number"], row_count=(1, "dynamic"), label="Speed Data"),
+        gr.Dataframe(headers=["value", "timestamp"], datatype=["number", "number"], row_count=(1, "dynamic"), label="Distance Data"),
+        gr.Dataframe(headers=["value", "timestamp"], datatype=["number", "number"], row_count=(1, "dynamic"), label="Step Count Data")
     ],
     outputs="bool",
     description="Detect Anomalies in Time Series Data"
