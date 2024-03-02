@@ -38,7 +38,7 @@ def detect_anomalies(speed_df, distance_df, step_count_df):
     threshold = np.mean(errors) + 2 * np.std(errors)
     anomalies_detected = np.any(errors > threshold)
     
-    return anomalies_detected
+    return int(anomalies_detected)
 
 # Define the Gradio interface with separate Dataframe inputs
 iface = gr.Interface(
@@ -48,7 +48,7 @@ iface = gr.Interface(
         gr.Dataframe(headers=["value", "timestamp"], datatype=["number", "number"], row_count=(1, "dynamic"), label="Distance Data"),
         gr.Dataframe(headers=["value", "timestamp"], datatype=["number", "number"], row_count=(1, "dynamic"), label="Step Count Data")
     ],
-    outputs="bool",
+    outputs="number",
     description="Detect Anomalies in Time Series Data"
 )
 # Launch the interface
