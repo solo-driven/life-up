@@ -1,0 +1,95 @@
+{
+    "Data Source": "derived:com.google.location.sample:com.google.android.gms:merge_location_samples",
+    "Data Points": [
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 40.39700698852539
+                    }
+                },
+                {
+                    "value": {
+                        "fpVal": 49.84959411621094
+                    }
+                },
+                {
+                    "value": {
+                        "fpVal": 100
+                    }
+                },
+                {
+                    "value": {
+                        "fpVal": 12.399999618530273
+                    }
+                }
+            ],
+            "originDataSourceId": "derived:com.google.location.sample:com.google.android.apps.fitness:app_location",
+            "endTimeNanos": 1709305100478000000,
+            "dataTypeName": "com.google.location.sample",
+            "startTimeNanos": 1709305100478000000,
+            "modifiedTimeMillis": 1709307045959,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 40.39714813232422
+                    }
+                },
+                {
+                    "value": {
+                        "fpVal": 49.84970474243164
+                    }
+                },
+                {
+                    "value": {
+                        "fpVal": 12.6899995803833
+                    }
+                },
+                {
+                    "value": {
+                        "fpVal": 22.399999618530273
+                    }
+                }
+            ],
+            "originDataSourceId": "derived:com.google.location.sample:com.google.android.apps.fitness:app_location",
+            "endTimeNanos": 1709305504784000000,
+            "dataTypeName": "com.google.location.sample",
+            "startTimeNanos": 1709305504784000000,
+            "modifiedTimeMillis": 1709307045959,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 40.39350891113281
+                    }
+                },
+                {
+                    "value": {
+                        "fpVal": 49.84878158569336
+                    }
+                },
+                {
+                    "value": {
+                        "fpVal": 63.457000732421875
+                    }
+                },
+                {
+                    "value": {
+                        "fpVal": 13.199999809265137
+                    }
+                }
+            ],
+            "originDataSourceId": "derived:com.google.location.sample:com.google.android.apps.fitness:app_location",
+            "endTimeNanos": 1709306294189000000,
+            "dataTypeName": "com.google.location.sample",
+            "startTimeNanos": 1709306294189000000,
+            "modifiedTimeMillis": 1709307045959,
+            "rawTimestampNanos": 0
+        }
+    ]
+}

@@ -1,0 +1,590 @@
+{
+    "Data Source": "derived:com.google.distance.delta:com.google.android.fit:Xiaomi:M2102J20SG:6ba8a58df3ab189e:top_level",
+    "Data Points": [
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 12.113898645119377
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709302211648589600,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709302175648590600,
+            "modifiedTimeMillis": 1709302445270,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 15.301766709624477
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709303072408591000,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709303012408591000,
+            "modifiedTimeMillis": 1709305240470,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 14.026619483822437
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709303105408591600,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709303072408591000,
+            "modifiedTimeMillis": 1709305240470,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 3.1878680645050994
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709303109308591600,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709303105408591600,
+            "modifiedTimeMillis": 1709305240470,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 28.053238967644873
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305093066512400,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305005066508300,
+            "modifiedTimeMillis": 1709305240470,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 14.026619483822437
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305233026510600,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305215026510000,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 38.89199038696221
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305278906511400,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305233026510600,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 43.355005677269354
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305345106509600,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305278906511400,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 3.8254416774061193
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305351206509600,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305345106509600,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 7.650883354812239
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305377626509000,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305351206509600,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 16.576913935426518
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305405986509000,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305377626509000,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 13.389045870921418
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305430946510600,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305405986509000,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 14.664193096723457
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305460826510600,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305430946510600,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 22.345709141184003
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305481226511600,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305460826510600,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 23.590223677337736
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305573946510300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305499946503200,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 49.73074180627955
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305636026508800,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305573946510300,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 32.51625425795201
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305684586509300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305636026508800,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 65.72356009702159
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305735066509000,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305684586509300,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 60.40543363446042
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305777226509800,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305735066509000,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 26.140518128941814
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305835866509300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305777226509800,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 19.45906633296548
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305852186509300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305835866509300,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 29.431737324558753
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305871266510300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305852186509300,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 39.326509768019605
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305901386510300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305871266510300,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 61.05227851617499
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305942626508800,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305901386510300,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 69.8331004003954
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709305993306510000,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305942626508800,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 38.889965190305865
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306022426509300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709305993306510000,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 28.889383416464504
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306043866509300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709306022426509300,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 28.714481047847542
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306065586508500,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709306043866509300,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 82.83040715822511
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306146866509300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709306065586508500,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 23.590223677337736
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306234706510000,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709306160706503000,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 14.026619483822437
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306351506508300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709306322146508500,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 65.03250851590403
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306633146508800,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709306462866508500,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 134.8374320909134
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306735426508300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709306633146508800,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 33.914708382806154
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306760666508000,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709306735426508300,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 119.64898690561996
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306850026508800,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709306760666508000,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 22.37532479319963
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306868426508800,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709306850026508800,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 26.233982567683686
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306890906508300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709306868426508800,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 24.227797290238755
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306920186508300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709306890906508300,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        },
+        {
+            "fitValue": [
+                {
+                    "value": {
+                        "fpVal": 18.679269505125045
+                    }
+                }
+            ],
+            "originDataSourceId": "raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup",
+            "endTimeNanos": 1709306938106508300,
+            "dataTypeName": "com.google.distance.delta",
+            "startTimeNanos": 1709306920186508300,
+            "modifiedTimeMillis": 1709307040727,
+            "rawTimestampNanos": 0
+        }
+    ]
+}

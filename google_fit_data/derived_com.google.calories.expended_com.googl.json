@@ -1,0 +1,8 @@
+{
+    "Data Source": "derived:com.google.calories.expended:com.google.android.fit:Xiaomi:M2102J20SG:6ba8a58df3ab189e:top_level",
+    "Data Points": [
+        {"fitValue":[{"value":{"fpVal":74.8028575}}],"originDataSourceId":"","endTimeNanos":1709306207028000000,"dataTypeName":"com.google.calories.expended","startTimeNanos":1709305082173000000,"modifiedTimeMillis":1709307040793,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"fpVal":0.323688167061}}],"originDataSourceId":"","endTimeNanos":1709306638014000000,"dataTypeName":"com.google.calories.expended","startTimeNanos":1709306633146508766,"modifiedTimeMillis":1709307040793,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"fpVal":22.8099655}}],"originDataSourceId":"","endTimeNanos":1709306981021000000,"dataTypeName":"com.google.calories.expended","startTimeNanos":1709306638014000000,"modifiedTimeMillis":1709307040793,"rawTimestampNanos":0}
+    ]
+}

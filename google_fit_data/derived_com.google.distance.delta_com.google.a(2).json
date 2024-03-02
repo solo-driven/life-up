@@ -1,0 +1,7 @@
+{
+    "Data Source": "derived:com.google.distance.delta:com.google.android.gms:from_third_party_location\u003c-derived:com.google.location.sample:com.google.android.apps.fitness:app_location",
+    "Data Points": [
+        {"fitValue":[{"value":{"fpVal":18.26634388721499}}],"originDataSourceId":"derived:com.google.location.sample:com.google.android.apps.fitness:app_location","endTimeNanos":1709305504784000000,"dataTypeName":"com.google.distance.delta","startTimeNanos":1709305100478000000,"modifiedTimeMillis":1709307045959,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"fpVal":411.88663085134164}}],"originDataSourceId":"derived:com.google.location.sample:com.google.android.apps.fitness:app_location","endTimeNanos":1709306294189000000,"dataTypeName":"com.google.distance.delta","startTimeNanos":1709305504784000000,"modifiedTimeMillis":1709307045959,"rawTimestampNanos":0}
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "Data Source": "derived:com.google.activity.segment:com.google.android.gms:merge_activity_segments",
+    "Data Points": [
+        {"fitValue":[{"value":{"intVal":7}}],"originDataSourceId":"derived:com.google.activity.samples:com.google.android.gms:Xiaomi:M2102J20SG:6ba8a58df3ab189e:detailed","endTimeNanos":1709306207028000000,"dataTypeName":"com.google.activity.segment","startTimeNanos":1709305082173000000,"modifiedTimeMillis":1709307046044,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"intVal":7}}],"originDataSourceId":"raw:com.google.step_count.cumulative:Xiaomi:M2102J20SG:6ba8a58df3ab189e:pedometer  Non-wakeup","endTimeNanos":1709306638014000000,"dataTypeName":"com.google.activity.segment","startTimeNanos":1709306633146508766,"modifiedTimeMillis":1709307046044,"rawTimestampNanos":0},
+        {"fitValue":[{"value":{"intVal":7}}],"originDataSourceId":"derived:com.google.activity.samples:com.google.android.gms:Xiaomi:M2102J20SG:6ba8a58df3ab189e:detailed","endTimeNanos":1709306981021000000,"dataTypeName":"com.google.activity.segment","startTimeNanos":1709306638014000000,"modifiedTimeMillis":1709307046044,"rawTimestampNanos":0}
+    ]
+}
