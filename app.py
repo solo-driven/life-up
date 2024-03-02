@@ -17,6 +17,7 @@ autoencoder, scaler = load_components()
 def detect_anomalies(speed_df, distance_df, step_count_df):
  
     distance_df['timestamp'] = pd.to_datetime(distance_df['timestamp'].astype(int), unit='ns')
+    print(distance_df.columns)
     distance_df['distance'] = distance_df['distance'].astype(float)
     distance_df.set_index('timestamp', inplace=True)
     
@@ -54,5 +55,6 @@ iface = gr.Interface(
     outputs="number",
     description="Detect Anomalies in Time Series Data"
 )
+
 # Launch the interface
 iface.launch()
