@@ -8,6 +8,13 @@ The LifeUp anomaly detection system is deployed as an API on Hugging Face. The A
 
 To interact with the API and see it in action, check it out on [Hugging Face Spaces](https://huggingface.co/spaces/solo-driven/lifeup).
 
-## Usage
 
-The project includes a Gradio interface for easy usage. The interface allows you to input the speed, distance, and step count data as separate DataFrames, and it displays the result of the anomaly detection.
+## Project Steps
+
+1. **Data Visualization**: The first step in the project was to visualize the data obtained from Google Fit. This helped us understand the patterns and trends in the data.
+
+2. **Data Interpolation**: The data obtained from Google Fit was not recorded at the same time intervals. To handle this, we interpolated the data to fill in the missing values and create a continuous time series.
+
+3. **Model Training**: We trained an autoencoder model on the interpolated data. The model was trained to recognize normal patterns in the data and flag any significant deviations as anomalies.
+
+4. **Model Deployment**: The trained model was saved and deployed as an API on Hugging Face. The API receives the Google Fit data, runs the anomaly detection algorithm, and returns the result.
