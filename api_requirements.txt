@@ -1,0 +1,7 @@
+pandas
+tensorflow  # This is required for keras
+numpy
+scikit-learn
+fastapi
+uvicorn
+pydantic
